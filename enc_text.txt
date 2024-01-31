@@ -1,0 +1,11 @@
+Süreyya Aydoğan
+Boy: 163,5
+Kilo: 58
+Yaş: 22
+
+Mustafa Kara
+Boy: 190
+Kilo: 80
+Yaş: 29
+
+
